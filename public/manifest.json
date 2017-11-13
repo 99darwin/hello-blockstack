@@ -1,0 +1,10 @@
+{
+  "name": "Hello, Darwin",
+  "start_url": "localhost:5000",
+  "description": "Testing the basic functionalities of Blockstack",
+  "icons": [{
+    "src": "https://helloblockstack.com/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
